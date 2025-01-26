@@ -126,7 +126,7 @@ export function ECardCreator() {
             {message || 'Your Republic Day message will appear here'}
           </p>
           <p className="text-center text-sm text-gray-500">
-            Happy Republic Day 2024 🇮🇳
+            Happy Republic Day 2025 🇮🇳
           </p>
         </div>
       </div>
