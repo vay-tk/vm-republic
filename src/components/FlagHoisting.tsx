@@ -128,7 +128,7 @@ export function FlagHoisting() {
 
       {/* Audio with multiple sources */}
       <audio ref={audioRef} onEnded={() => setIsPlaying(false)}>
-        <source src="src\Audio\jan-gan-man.mp3" type="audio/mpeg" />
+        <source src="src/Audio/jan-gan-man.mp3" type="audio/mpeg" />
         
       </audio>
 
